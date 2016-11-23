@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\obj\Debug\Space_Age.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\bin\Debug\Space_Age.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\bin\Debug\Space_Age.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\obj\Debug\Space_Age.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\space-age\Space_Age\obj\Debug\Space_Age.pdb

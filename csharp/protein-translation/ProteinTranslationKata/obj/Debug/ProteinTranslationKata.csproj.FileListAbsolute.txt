@@ -1,0 +1,14 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\ProteinTranslationKata.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\ProteinTranslationKata.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\ProteinTranslationKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\ProteinTranslationKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\protein-translation\ProteinTranslationKata\obj\Debug\ProteinTranslationKata.csprojResolveAssemblyReference.cache

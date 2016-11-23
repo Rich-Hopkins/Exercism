@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\bin\Debug\RaindropsKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\bin\Debug\RaindropsKoan.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\obj\Debug\RaindropsKoan.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\obj\Debug\RaindropsKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\raindrops\RaindropsKoan\obj\Debug\RaindropsKoan.pdb

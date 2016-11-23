@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\bin\Debug\BeerSongKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\bin\Debug\BeerSongKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\obj\Debug\BeerSongKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\obj\Debug\BeerSongKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\beer-song\BeerSongKata\BeerSongKata\obj\Debug\BeerSongKata.pdb

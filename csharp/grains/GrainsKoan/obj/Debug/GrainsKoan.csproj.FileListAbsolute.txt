@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\obj\Debug\GrainsKoan.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\bin\Debug\GrainsKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\bin\Debug\GrainsKoan.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\obj\Debug\GrainsKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\grains\GrainsKoan\obj\Debug\GrainsKoan.pdb

@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\obj\Debug\PerfectNumbersKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\bin\Debug\PerfectNumbersKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\bin\Debug\PerfectNumbersKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\obj\Debug\PerfectNumbersKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\perfect-numbers\PerfectNumbersKata\PerfectNumbersKata\obj\Debug\PerfectNumbersKata.pdb

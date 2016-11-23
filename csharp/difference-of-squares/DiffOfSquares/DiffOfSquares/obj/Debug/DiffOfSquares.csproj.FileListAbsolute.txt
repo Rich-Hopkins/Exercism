@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\bin\Debug\DiffOfSquares.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\bin\Debug\DiffOfSquares.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\difference-of-squares\DiffOfSquares\DiffOfSquares\obj\Debug\DiffOfSquares.pdb

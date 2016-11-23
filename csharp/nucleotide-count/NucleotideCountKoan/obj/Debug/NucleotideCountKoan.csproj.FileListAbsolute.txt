@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\obj\Debug\NucleotideCountKoan.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\bin\Debug\NucleotideCountKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\bin\Debug\NucleotideCountKoan.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\obj\Debug\NucleotideCountKoan.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\nucleotide-count\NucleotideCountKoan\obj\Debug\NucleotideCountKoan.pdb
