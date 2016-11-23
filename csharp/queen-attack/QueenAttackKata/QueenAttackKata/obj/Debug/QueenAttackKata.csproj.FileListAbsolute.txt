@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\bin\Debug\QueenAttackKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\bin\Debug\QueenAttackKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\obj\Debug\QueenAttackKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\obj\Debug\QueenAttackKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\queen-attack\QueenAttackKata\QueenAttackKata\obj\Debug\QueenAttackKata.pdb
