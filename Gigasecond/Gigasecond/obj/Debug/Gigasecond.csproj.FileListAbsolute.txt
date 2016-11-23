@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\obj\Debug\Gigasecond.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\bin\Debug\Gigasecond.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\bin\Debug\Gigasecond.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\obj\Debug\Gigasecond.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Gigasecond\Gigasecond\obj\Debug\Gigasecond.pdb

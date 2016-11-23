@@ -1,0 +1,14 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\bin\Debug\HelloWorld.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

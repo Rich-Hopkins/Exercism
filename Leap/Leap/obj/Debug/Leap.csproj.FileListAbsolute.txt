@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\bin\Debug\Leap.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\bin\Debug\Leap.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\obj\Debug\Leap.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\obj\Debug\Leap.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Leap\Leap\obj\Debug\Leap.pdb

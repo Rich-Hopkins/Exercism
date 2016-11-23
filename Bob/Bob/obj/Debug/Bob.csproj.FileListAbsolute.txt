@@ -1,0 +1,7 @@
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\obj\Debug\Bob.csprojResolveAssemblyReference.cache
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\bin\Debug\Bob.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\bin\Debug\Bob.pdb
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\bin\Debug\nunit.framework.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\bin\Debug\nunit.framework.xml
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\obj\Debug\Bob.dll
+Z:\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exorcism\Bob\Bob\obj\Debug\Bob.pdb
