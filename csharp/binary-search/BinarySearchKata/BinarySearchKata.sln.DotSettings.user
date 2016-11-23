@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/ContinuousTesting/PersistentDataLocation/@EntryValue">C:\Users\hopme\AppData\Local\Temp\JetBrains\ContinuousTesting\f284900d-fa22-4a3f-9ba6-5ae7c7c7c371</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/SnapshotLocation/@EntryValue">C:\Users\hopme\AppData\Local\Temp\ssm.Qokorep.tmp</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/Strategy/@EntryValue">RunTests</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/TriggerMode/@EntryValue">OnSave</s:String>
+	<s:Boolean x:Key="/Default/Environment/ContinuousTestingSessionDescriptor/AutoScrollOutput/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ContinuousTestingSessionDescriptor/TrackActiveElement/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>
