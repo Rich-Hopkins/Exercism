@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\obj\Debug\RobotSimulatorKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\bin\Debug\RobotSimulatorKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\bin\Debug\RobotSimulatorKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\obj\Debug\RobotSimulatorKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\robot-simulator\RobotSimulatorKata\RobotSimulatorKata\obj\Debug\RobotSimulatorKata.pdb
