@@ -12,18 +12,18 @@ namespace AllergiesKata
         };
         private char[] allergenCodes;
 
-        public Allergies(int allergyCode)
+        public Allergies(int score)
         {
-            var allergens = 
-                Convert.ToString(allergyCode, 2).PadLeft(8, '0');
+            var convertedScore = 
+                Convert.ToString(score, 2).PadLeft(8, '0');
             allergenCodes = 
-                allergens.Substring(allergens.Length - 8).ToCharArray();
+                convertedScore.Substring(convertedScore.Length - 8).ToCharArray();
             Array.Reverse(allergenCodes);
         }
 
         public bool AllergicTo(string allergen)
         {
-            return allergenCodes[Array.IndexOf(allergens, allergen)] == '1';
+            return List().Contains(allergen);
         }
 
         public List<string> List()
