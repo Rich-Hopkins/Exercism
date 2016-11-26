@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\obj\Debug\AllergiesKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\bin\Debug\AllergiesKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\bin\Debug\AllergiesKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\obj\Debug\AllergiesKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\allergies\AllergiesKata\AllergiesKata\obj\Debug\AllergiesKata.pdb
