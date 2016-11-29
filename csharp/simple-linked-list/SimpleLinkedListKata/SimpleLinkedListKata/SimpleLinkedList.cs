@@ -1,59 +1,48 @@
-﻿using System;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace SimpleLinkedListKata
 {
-    public class SimpleLinkedList<T>
+    public class SimpleLinkedList<T> :IEnumerable<T>
     {
-        private List<Node> list = new List<Node>();
-
-        public SimpleLinkedList(object o)
+        public SimpleLinkedList(T value)
         {
-            Add(o);
-        }
-
-        public int Value
-        {
-            get { return (int) list[0].Value; }
-        }
-
-        public Node Next()
-        {
-            return list[list.Count - 1].Next;
-        }
-
-        public SimpleLinkedList<T> Add(object o)
-        {
-            Node newNode;
-            if (list.Count == 0)
-            {
-                newNode = new Node(null, o);
-            }
-            else
-            {
-                newNode = new Node(list[list.Count-1], o);
-                list[list.Count - 1].Next = newNode;
-            }
-            list.Add(newNode);
-            return this;
-        }
-    }
-
-    public class Node
-    {
-        public Node(Node prev, object value)
-        {
-            Previous = prev;
             Value = value;
         }
 
-        public Node Next { get; set; }
+        public SimpleLinkedList(IEnumerable<T> values) : this(values.First())
+        {
+            var current = this;
+            current = values.Skip(1)
+                .Aggregate(current, (current1, value) 
+                => current1.Add(value).Next);
+        }
 
-        public Node Previous { get; set; }
+        public T Value { get; set; }
 
-        public object Value { get; set; }
+        public SimpleLinkedList<T> Next { get;  private set; }
+
+        public SimpleLinkedList<T> Add(T value)
+        {
+            Next = new SimpleLinkedList<T>(value);
+            return this;
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            var current = this;
+
+            do
+            {
+                yield return current.Value;
+                current = current.Next;
+            } while (current != null);
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
+        }
     }
 }
