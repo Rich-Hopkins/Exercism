@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\obj\Debug\SimpleLinkedListKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\bin\Debug\SimpleLinkedListKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\bin\Debug\SimpleLinkedListKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\obj\Debug\SimpleLinkedListKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\simple-linked-list\SimpleLinkedListKata\SimpleLinkedListKata\obj\Debug\SimpleLinkedListKata.pdb
