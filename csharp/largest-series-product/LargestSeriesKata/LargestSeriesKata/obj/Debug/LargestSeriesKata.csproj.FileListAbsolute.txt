@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\obj\Debug\LargestSeriesKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\bin\Debug\LargestSeriesKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\bin\Debug\LargestSeriesKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\obj\Debug\LargestSeriesKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\largest-series-product\LargestSeriesKata\LargestSeriesKata\obj\Debug\LargestSeriesKata.pdb
