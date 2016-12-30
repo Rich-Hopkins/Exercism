@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\bin\Debug\HouseKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\bin\Debug\HouseKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\obj\Debug\HouseKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\obj\Debug\HouseKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\house\HouseKata\HouseKata\obj\Debug\HouseKata.pdb

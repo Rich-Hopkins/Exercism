@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\obj\Debug\WordCountKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\bin\Debug\WordCountKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\bin\Debug\WordCountKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\obj\Debug\WordCountKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\word-count\WordCountKata\WordCountKata\obj\Debug\WordCountKata.pdb

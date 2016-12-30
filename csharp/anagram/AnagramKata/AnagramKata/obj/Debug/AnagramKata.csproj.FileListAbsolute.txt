@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\bin\Debug\AnagramKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\bin\Debug\AnagramKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\obj\Debug\AnagramKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\obj\Debug\AnagramKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\anagram\AnagramKata\AnagramKata\obj\Debug\AnagramKata.pdb

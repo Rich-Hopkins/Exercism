@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\obj\Debug\TwelveDaysKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\bin\Debug\TwelveDaysKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\bin\Debug\TwelveDaysKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\obj\Debug\TwelveDaysKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\twelve-days\TwelveDaysKata\TwelveDaysKata\obj\Debug\TwelveDaysKata.pdb

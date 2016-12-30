@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\bin\Debug\SaddlePointsKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\bin\Debug\SaddlePointsKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\obj\Debug\SaddlePointsKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\obj\Debug\SaddlePointsKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\saddle-points\SaddlePointsKata\SaddlePointsKata\obj\Debug\SaddlePointsKata.pdb
