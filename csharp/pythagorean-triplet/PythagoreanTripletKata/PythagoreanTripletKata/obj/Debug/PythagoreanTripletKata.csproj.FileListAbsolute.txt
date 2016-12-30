@@ -1,0 +1,7 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\bin\Debug\PythagoreanTripletKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\bin\Debug\PythagoreanTripletKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\obj\Debug\PythagoreanTripletKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\obj\Debug\PythagoreanTripletKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\pythagorean-triplet\PythagoreanTripletKata\PythagoreanTripletKata\obj\Debug\PythagoreanTripletKata.pdb
