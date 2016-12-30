@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework.Constraints;
+﻿using System.Collections.Generic;
 
 namespace WordCountKata
 {
@@ -16,10 +11,11 @@ namespace WordCountKata
 
             foreach (var word in words)
             {
-                if (counts.ContainsKey(word))
-                    counts[word]++;
-                else
-                    counts.Add(word, 1);
+                var wordLower = word.ToLower().Trim('\'');
+                if (counts.ContainsKey(wordLower))
+                    counts[wordLower]++;
+                else if (wordLower != string.Empty)
+                    counts.Add(wordLower, 1);
             }
 
             return counts;

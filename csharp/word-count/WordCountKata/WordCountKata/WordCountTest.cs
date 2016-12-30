@@ -70,8 +70,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("car : carpet as java : javascript!!&@$%^&"), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void Handles_cramped_list()
         {
@@ -83,8 +82,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("one,two,three"), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void Include_numbers()
         {
@@ -96,8 +94,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("testing, 1, 2 testing"), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void Normalize_case()
         {
@@ -107,8 +104,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("go Go GO"), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void With_apostrophes()
         {
@@ -122,8 +118,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("First: don't laugh. Then: don't cry."), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void With_free_standing_apostrophes()
         {
@@ -133,8 +128,7 @@ namespace WordCountKata
 
             Assert.That(Phrase.WordCount("go ' Go '' GO"), Is.EqualTo(counts));
         }
-
-        [Ignore("Remove to run test")]
+        
         [Test]
         public void With_apostrophes_as_quotes()
         {
