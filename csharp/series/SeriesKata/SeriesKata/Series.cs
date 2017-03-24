@@ -1,37 +1,34 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using NUnit.Framework.Constraints;
 
 namespace SeriesKata
 {
-    public class Series
+  public class Series
+  {
+    private List<int> _input = new List<int>();
+
+    public Series(string input)
     {
-        private List<int> input;
-
-        public Series(string input)
-        {
-            foreach (var number in input)
-            {
-                this.input.Add((int)char.GetNumericValue(number));
-            }
-        }
-
-        public object Slices(int size)
-        {
-            var slices = new List<int[]>();
-            for (int i = 0; i < input.Count - size; i++)
-            {
-                var slice = new List<int>();
-                for (int j = i; j < size; j++)
-                {
-
-                }
-                slices.Add(slice.ToArray());
-            }
-            return slices.ToArray();
-        }
+      foreach (var number in input)
+      {
+        this._input.Add((int)char.GetNumericValue(number));
+      }
     }
+
+    public object Slices(int size)
+    {
+      if (size > _input.Count) throw new ArgumentException();
+      var slices = new List<int[]>();
+      for (int i = 0; i < _input.Count - size + 1; i++)
+      {
+        var slice = new List<int>();
+        for (int j = i; j < size + i; j++)
+        {
+          slice.Add(_input[j]);
+        }
+        slices.Add(slice.ToArray());
+      }
+      return slices.ToArray();
+    }
+  }
 }
