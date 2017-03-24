@@ -1,0 +1,11 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\obj\Debug\ErrorHandlingKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\ErrorHandlingKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\ErrorHandlingKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\nunit.framework.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\xunit.abstractions.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\xunit.core.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\nunit.framework.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\xunit.abstractions.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\bin\Debug\xunit.core.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\obj\Debug\ErrorHandlingKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\error-handling\ErrorHandlingKata\ErrorHandlingKata\obj\Debug\ErrorHandlingKata.pdb
