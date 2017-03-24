@@ -1,0 +1,13 @@
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.csprojResolveAssemblyReference.cache
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.pdb
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.abstractions.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.assert.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.core.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.execution.desktop.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.abstractions.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.assert.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.core.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.execution.desktop.xml
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.dll
+C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.pdb
