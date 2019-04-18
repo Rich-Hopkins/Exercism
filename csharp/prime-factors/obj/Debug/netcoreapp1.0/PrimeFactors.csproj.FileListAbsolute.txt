@@ -1,0 +1,4 @@
+C:\Exercism\Code\csharp\prime-factors\obj\Debug\netcoreapp1.0\PrimeFactors.csprojAssemblyReference.cache
+C:\Exercism\Code\csharp\prime-factors\obj\Debug\netcoreapp1.0\PrimeFactors.csproj.CoreCompileInputs.cache
+C:\Exercism\Code\csharp\prime-factors\obj\Debug\netcoreapp1.0\PrimeFactors.AssemblyInfoInputs.cache
+C:\Exercism\Code\csharp\prime-factors\obj\Debug\netcoreapp1.0\PrimeFactors.AssemblyInfo.cs

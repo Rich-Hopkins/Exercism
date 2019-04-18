@@ -11,3 +11,17 @@ C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csh
 C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.execution.desktop.xml
 C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.dll
 C:\Users\hopme\OneDrive\Documents\Visual Studio 2015\Projects\Katas\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.pdb
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\PrimeFactorsKata.pdb
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.abstractions.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.assert.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.core.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.execution.desktop.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.abstractions.xml
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.assert.xml
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.core.xml
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\bin\Debug\xunit.execution.desktop.xml
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.csproj.CoreCompileInputs.cache
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.csproj.CopyComplete
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.dll
+C:\Code\Exercism\csharp\prime-factors\PrimeFactorsKata\PrimeFactorsKata\obj\Debug\PrimeFactorsKata.pdb
