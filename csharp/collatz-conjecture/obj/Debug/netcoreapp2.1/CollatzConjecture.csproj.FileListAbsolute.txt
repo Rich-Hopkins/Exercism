@@ -1,0 +1,14 @@
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\CollatzConjecture.deps.json
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\CollatzConjecture.runtimeconfig.json
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\CollatzConjecture.runtimeconfig.dev.json
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\CollatzConjecture.dll
+C:\Code\Exercism\csharp\collatz-conjecture\bin\Debug\netcoreapp2.1\CollatzConjecture.pdb
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.csprojAssemblyReference.cache
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.AssemblyInfoInputs.cache
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.AssemblyInfo.cs
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.dll
+C:\Code\Exercism\csharp\collatz-conjecture\obj\Debug\netcoreapp2.1\CollatzConjecture.pdb
