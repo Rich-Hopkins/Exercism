@@ -10,7 +10,7 @@ public static class CollatzConjecture
         {
             if (number % 2 == 0) number /= 2;
             else number = number * 3 + 1;
-            steps += 1;
+            steps++;
         }
         return steps;
     }
