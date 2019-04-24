@@ -1,0 +1,14 @@
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\DndCharacter.deps.json
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\DndCharacter.runtimeconfig.json
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\DndCharacter.runtimeconfig.dev.json
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\DndCharacter.dll
+C:\Exercism\Code\csharp\dnd-character\bin\Debug\netcoreapp2.1\DndCharacter.pdb
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.csprojAssemblyReference.cache
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.csproj.CoreCompileInputs.cache
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.AssemblyInfoInputs.cache
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.AssemblyInfo.cs
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.dll
+C:\Exercism\Code\csharp\dnd-character\obj\Debug\netcoreapp2.1\DndCharacter.pdb
