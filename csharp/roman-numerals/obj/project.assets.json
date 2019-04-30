@@ -4027,7 +4027,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
+      "sha512": "kbz//4f33B8/wlPeKz7dmNao/UFaSn8HkNQxMPPOMERoMldy4o/ZGf3V9Ky8w9P75hVn8TYoXN+lizZvmJqmPw==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -4811,7 +4811,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
+      "sha512": "zFjh413odeCjNPLdyI+WhD9gwblj5NM1Bs+TtxDQ/2RmeAMz4ZAf6Vf7t4RW+ZYAHWyQe312J1AA4yfnva2eCw==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -5856,23 +5856,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hopme\\.nuget\\packages\\": {},
+    "C:\\Users\\rhopkins\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj",
+      "projectUniqueName": "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj",
       "projectName": "RomanNumerals",
-      "projectPath": "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj",
-      "packagesPath": "C:\\Users\\hopme\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\Exercism\\csharp\\roman-numerals\\obj\\",
+      "projectPath": "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj",
+      "packagesPath": "C:\\Users\\rhopkins\\.nuget\\packages\\",
+      "outputPath": "C:\\Exercism\\Code\\csharp\\roman-numerals\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\hopme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\rhopkins\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5901,7 +5901,6 @@
             "version": "[16.0.1, )"
           },
           "Microsoft.NETCore.App": {
-            "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.0, )",
             "autoReferenced": true

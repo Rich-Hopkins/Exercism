@@ -12,3 +12,16 @@ C:\Code\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.Ass
 C:\Code\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfo.cs
 C:\Code\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.dll
 C:\Code\Exercism\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.pdb
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.deps.json
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.json
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.runtimeconfig.dev.json
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.dll
+C:\Exercism\Code\csharp\roman-numerals\bin\Debug\netcoreapp2.1\RomanNumerals.pdb
+C:\Exercism\Code\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.csproj.CoreCompileInputs.cache
+C:\Exercism\Code\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfoInputs.cache
+C:\Exercism\Code\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.AssemblyInfo.cs
+C:\Exercism\Code\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.dll
+C:\Exercism\Code\csharp\roman-numerals\obj\Debug\netcoreapp2.1\RomanNumerals.pdb

@@ -3,34 +3,34 @@ using System.Collections.Generic;
 
 public static class RomanNumeralExtension
 {
-    private static Dictionary<string, int> romans = new Dictionary<string, int>
+    private static readonly Dictionary<int, string> romans = new Dictionary<int, string>
     {
-        { "M", 1000 },
-        {"CM", 900 },
-        {"D", 500 },
-        {"CD", 400 },
-        {"C", 100 },
-        {"XC", 90 },
-        {"L", 50 },
-        {"XL", 40 },
-        {"X", 10 },
-        {"IX", 9 },
-        {"V", 5 },
-        {"IV", 4 },
-        {"I", 1 }
+        {1000,"M" },
+        {900,"CM" },
+        {500, "D"},
+        {400, "CD"},
+        {100, "C"},
+        {90, "XC"},
+        {50,"L"},
+        {40, "XL"},
+        {10, "X"},
+        {9, "IX"},
+        {5, "V"},
+        {4, "IV"},
+        {1, "I"}
     };
 
-    public static string ToRoman(this int value)
+    public static string ToRoman(this int value) => value < 1 || value > 3499 ? "NOT VALID" : GetRomans(value);
+
+    private static string GetRomans(int value)
     {
-        var result = "";
-        while (value > 0)
+        foreach (var roman in romans)
         {
-            foreach (var roman in romans)
+            if (value >= roman.Key)
             {
-
-            } 
+                return roman.Value + GetRomans(value - roman.Key);
+            }
         }
-        return result;
+        return "";
     }
-
 }

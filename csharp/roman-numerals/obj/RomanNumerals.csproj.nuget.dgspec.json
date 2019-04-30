@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj": {}
+    "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj": {}
   },
   "projects": {
-    "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj": {
+    "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj",
+        "projectUniqueName": "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj",
         "projectName": "RomanNumerals",
-        "projectPath": "C:\\Code\\Exercism\\csharp\\roman-numerals\\RomanNumerals.csproj",
-        "packagesPath": "C:\\Users\\hopme\\.nuget\\packages\\",
-        "outputPath": "C:\\Code\\Exercism\\csharp\\roman-numerals\\obj\\",
+        "projectPath": "C:\\Exercism\\Code\\csharp\\roman-numerals\\RomanNumerals.csproj",
+        "packagesPath": "C:\\Users\\rhopkins\\.nuget\\packages\\",
+        "outputPath": "C:\\Exercism\\Code\\csharp\\roman-numerals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\hopme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rhopkins\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -46,7 +46,6 @@
               "version": "[16.0.1, )"
             },
             "Microsoft.NETCore.App": {
-              "suppressParent": "All",
               "target": "Package",
               "version": "[2.1.0, )",
               "autoReferenced": true
